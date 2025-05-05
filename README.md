@@ -36,7 +36,7 @@ El sistema incluye un módulo de evaluación automatizada que permite medir la c
 ### 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/drangelv/nlp_u.git
+git clone https://github.com/drangelv/chat_final.git
 cd nlp_u
 ```
 
